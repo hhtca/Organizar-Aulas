@@ -1,0 +1,20 @@
+Matemática - Prof. Ana 60
+História - Prof. Bruno 45
+Biologia - Prof. Carla 30
+Física - Prof. Diego 90
+Geografia - Prof. Elisa 50
+Química - Prof. João 60
+Inglês - Prof. Laura 45
+Literatura - Prof. Marcos 40
+Artes - Prof. Nara 30
+Educação Física - Prof. Otávio 60
+Filosofia - Prof. Paula 45
+Sociologia - Prof. Renan 50
+Redação - Prof. Sofia 60
+Espanhol - Prof. Teresa 40
+Programação - Prof. Ulisses 90
+Robótica - Prof. Vanessa 60
+Astronomia - Prof. Wagner 45
+Teatro - Prof. Xênia 50
+Música - Prof. Yago 30
+Empreendedorismo - Prof. Zuleica 60
